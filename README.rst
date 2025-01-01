@@ -1,3 +1,5 @@
+
+Obsolete --- Please use more recnet work from https://github.com/dstrigl/ebusd-config-brink-renovent-excellent-300
 ======================================
 ebusd for Brink Renovent Excellent 300
 ======================================
